@@ -14,7 +14,7 @@ This is a data cleaning project, the objective is to detect, correct or remove i
 ## Screenshots
 ![Screenshot 1](./Cl.PNG)
 ![Screenshot 2](./Cl1.PNG)
-![Screenshot 3](./CL2.PNG)
+![Screenshot 3](./Cl2.PNG)
 
 ## Technologies
 Programming Language: Python
