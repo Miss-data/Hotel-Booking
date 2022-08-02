@@ -20,21 +20,21 @@ This is a data cleaning project, the objective is to detect, correct or remove i
 ## Technologies
 Programming Language: Python
 Packages:
-pandas
-numpy
-pandas_profiling
-matplotlib.pyplot 
-seaborn as sns
-statistics
-sklearn
+* pandas
+* numpy
+* pandas_profiling
+* matplotlib.pyplot 
+* seaborn as sns
+* statistics
+* sklearn
 
 ## Findings
 * Missing data
 * Single value
-Duplicate data
-Invalid and contaminated data
-Inconsistence data
-Outliers
+* Duplicate data
+* Invalid and contaminated data
+* Inconsistence data
+* Outliers
 
 ## Status
 Project is finished
