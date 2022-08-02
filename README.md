@@ -36,7 +36,7 @@ Packages:
 * Outliers
 
 ## Status
-Project is finished
+Project is completed
 
 ## Contact
 Can contact me via my mail. [missewoudiane@gmail.com](missewoudiane@gmail.com) 
