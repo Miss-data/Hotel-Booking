@@ -12,10 +12,9 @@
 This is a data cleaning project, the objective is to detect, correct or remove inaccurate records from hotel booking dataset to insure data quality before further analysis. The dataset has 119390 observations and 32 variables.
 
 ## Screenshots
-![Screenshot 1](./GV.PNG)
-![Screenshot 2](./GV1.PNG)
-![Screenshot 3](./GV2.PNG)
-![Screenshot 3](./GV3.PNG)
+![Screenshot 1](./Cl.PNG)
+![Screenshot 2](./Cl1.PNG)
+![Screenshot 3](./CL2.PNG)
 
 ## Technologies
 Programming Language: Python
