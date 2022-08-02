@@ -29,8 +29,8 @@ statistics
 sklearn
 
 ## Findings
-Missing data
-Single value
+* Missing data
+* Single value
 Duplicate data
 Invalid and contaminated data
 Inconsistence data
